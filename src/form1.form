@@ -7,7 +7,7 @@
     </constraints>
     <properties>
       <background color="-6030633"/>
-      <preferredSize width="350" height="400"/>
+      <preferredSize width="450" height="400"/>
     </properties>
     <border type="none"/>
     <children>
@@ -16,6 +16,9 @@
           <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-8716292"/>
+          <font name="Franklin Gothic Medium" size="22" style="1"/>
+          <foreground color="-16382457"/>
           <text value="INGRESAR "/>
         </properties>
       </component>
@@ -24,6 +27,9 @@
           <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-8716292"/>
+          <font name="Franklin Gothic Medium" size="22" style="1"/>
+          <foreground color="-16382457"/>
           <text value="BORRAR"/>
         </properties>
       </component>
@@ -32,6 +38,9 @@
           <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-8716292"/>
+          <font name="Franklin Gothic Medium" size="22" style="1"/>
+          <foreground color="-16382457"/>
           <text value="BUSCAR"/>
         </properties>
       </component>
@@ -40,6 +49,8 @@
           <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Propietario :"/>
         </properties>
       </component>
@@ -48,6 +59,8 @@
           <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Color :"/>
         </properties>
       </component>
@@ -56,6 +69,8 @@
           <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Tipo Conbustible :"/>
         </properties>
       </component>
@@ -64,6 +79,8 @@
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Cilindro :"/>
         </properties>
       </component>
@@ -72,6 +89,8 @@
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Marca :"/>
         </properties>
       </component>
@@ -80,6 +99,8 @@
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Heavy" size="20" style="0"/>
+          <foreground color="-14932958"/>
           <text value="Placa : "/>
         </properties>
       </component>
@@ -88,6 +109,8 @@
           <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <font name="Franklin Gothic Demi Cond" size="22" style="1"/>
+          <foreground color="-14595867"/>
           <text value="INGRESO DATOS DE VEHICULOS"/>
         </properties>
       </component>
@@ -97,7 +120,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
       <component id="3cd01" class="javax.swing.JTextField" binding="textField2" default-binding="true">
         <constraints>
@@ -105,7 +131,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
       <component id="3f975" class="javax.swing.JTextField" binding="textField3" default-binding="true">
         <constraints>
@@ -113,7 +142,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
       <component id="384c0" class="javax.swing.JTextField" binding="textField4" default-binding="true">
         <constraints>
@@ -121,7 +153,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
       <component id="3865c" class="javax.swing.JTextField" binding="textField5" default-binding="true">
         <constraints>
@@ -129,7 +164,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
       <component id="ff386" class="javax.swing.JTextField" binding="textField6" default-binding="true">
         <constraints>
@@ -137,7 +175,10 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-394241"/>
+          <font name="Franklin Gothic Medium" size="20" style="0"/>
+        </properties>
       </component>
     </children>
   </grid>
