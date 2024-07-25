@@ -7,6 +7,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
         frame.pack();
+        System.out.println("Hola");
         frame.setVisible(true);
 
     }
